@@ -50,7 +50,8 @@ The following files are provided for your convenience (but not presently used)
 - 8x12font.c: defines the bitmaps of an 8x12 font (8 rows, 12 cols).  Each row is stored as a bitmap of type char.
 
 # Pleae try to be polite and respectful
-  Java's coding styles are subtly different from C's.
+
+Java's coding styles are subtly different from C's.
   These styles developed for both pragmatic and idiosyncratic reasons.
   It's rude (and unprofessional) to ignore others' cultural norms.  
   Generosity and sensitivity are universally appreciated.
@@ -81,9 +82,9 @@ Please observe the following standard C coding practices:
   Be sure to watch this video on how to [render bitmap fonts](https://www.youtube.com/playlist?list=PLW7kRC02iWTIxCZzo2IKSNpN15lRscCs2).
  
  
- # Learning outcomes
+ # Learning Outcomes
   
- - ability to use emacs editor and linux command-line compilation tools using bash shell
+ - Ability To Use emacs editor and linux command-line compilation tools using bash shell
  - git: ability to clone repo and add/commit/push changes 
  - ability to understand and modify C programs with separate compilation and include files that include declarations for global variables and functions. 
  - bitfield manipulation
